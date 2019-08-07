@@ -27,5 +27,7 @@ $ ./check.py http://hiring.test.everon.io
 The following services are NOT OK:
 
 The Service notifications is NOK
+
 The Service roaming is down
+
 The Service auth is degraded service
