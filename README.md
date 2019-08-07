@@ -5,7 +5,8 @@ Python script to fetch and filter NON OK services using the payload "http://hiri
 # Requirements
 
 - python3 must be installed
-- the following python modules must be installed: [requests], [argparse], [sys]
+- the following python modules must be installed: [requests], [argparse]:
+$ pip install requests argparse
 
 # Why Python3?
 I really enjoy coding in python because it's a modern scripting language which generates a pretty clean code. I tend to prefer python3 over bash when I have a bit more time for writing the code.
